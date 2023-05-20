@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/bNMcfDx/netflix.gif" alt="netflix" border="0">
+![netflix-gif](https://github.com/anushkadeshpande/Netflix-clone/blob/main/netflix.gif)
